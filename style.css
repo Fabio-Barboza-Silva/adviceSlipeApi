@@ -1,0 +1,21 @@
+#content {
+    color:black;
+    padding: 20px;
+    margin-top: 20px;
+    font-size: 40px;
+    font-weight: bold;
+    background-image:url(./pergaminho.jpg);   
+}
+
+#content2 {
+    color:black;
+    padding: 20px;
+    margin-top: 20px;
+    font-size: 40px;
+    font-weight: bold;
+    background-image:url(./pergaminho.jpg);   
+}
+
+body {
+    text-align: center;
+}
